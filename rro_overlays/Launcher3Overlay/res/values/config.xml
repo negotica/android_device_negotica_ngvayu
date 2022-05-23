@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="drag_distanceThreshold">21474836dp</dimen>
+    <string name="abandoned_search"></string>
+</resources>
